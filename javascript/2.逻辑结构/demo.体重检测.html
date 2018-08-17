@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="text" id="eHeight" placeholder="请输入您的身高">
+	<input type="text" id="eWeight" placeholder="请输入您的当前体重">
+	<button onclick="check()">检测</button>
+
+	<script>
+		function check(){
+			var nWeight = (eHeight.value-108)*0.9;
+
+			if(eWeight.value>nWeight+5){
+				alert("超重");
+			}else if(eWeight.value<nWeight-5){
+				alert("偏轻");
+			}else{
+				alert("正常");
+			}
+		}
+	</script>
+</body>
+</html>

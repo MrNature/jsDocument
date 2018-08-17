@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<input type="text" id="iHeight" placeholder="请输入您的身高">
+	<input type="text" id="iWeight" placeholder="请输入您的当前体重">
+	<button onclick="check()">检测</button>
+	<script>
+		function check(){
+			var nWeight = (iHeight.value - 108) * 0.9;
+			console.log(nWeight);
+			if (iWeight.value > nWeight+5) {
+				alert("超重");
+			} else if (iWeight.value < nWeight-5) {
+				alert("偏轻");
+			} else{
+				alert("正常");
+			}
+
+		}
+	</script>
+</body>
+</html>

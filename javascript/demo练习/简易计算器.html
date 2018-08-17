@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<input type="text" value="0" id="num1">
+	<button onclick="fn('+')">+</button>
+	<button onclick="fn('-')">-</button>
+	<button onclick="fn('*')">*</button>
+	<button onclick="fn('/')">/</button>
+	<button onclick="fn('%')">%</button>
+	<input type="text" value="0" id="num2">
+	<script>
+		function fn(fh){
+			switch(fh){
+				case '+':
+					alert(Number(num1.value)+Number(num2.value));
+					break;
+				case '-':
+					alert(Number(num1.value)-Number(num2.value));
+					break;
+				case '*':
+					alert(Number(num1.value)*Number(num2.value));
+					break;
+				case '/':
+					alert(Number(num1.value)/Number(num2.value));
+					break;
+				case '%':
+					alert(Number(num1.value)%Number(num2.value));
+					break;
+				default:
+					alert("输出错误");
+			}
+		}
+	</script>
+</body>
+</html>

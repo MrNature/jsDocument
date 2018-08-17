@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input id="ipt1" type="text" value="0">
+	<button onclick="fn('+')">+</button>
+	<button onclick="fn('-')">-</button>
+	<button onclick="fn('*')">*</button>
+	<button onclick="fn('/')">/</button>
+	<button onclick="fn('%')">%</button>
+	<input id="ipt2" type="text" value="0">
+
+	<script>
+		function fn(a){//封装代码段
+			switch(a){
+				case "+":
+					alert(ipt1.value+ipt2.value);
+					break;
+				case "-":
+					alert(ipt1.value-ipt2.value);
+					break;
+				case "*":
+					alert(ipt1.value*ipt2.value);
+					break;
+				case "/":
+					alert(ipt1.value/ipt2.value);
+					break;
+				case "%":
+					alert(ipt1.value%ipt2.value);
+					break;
+				default:
+					alert("输入错误");
+			}
+		}
+	</script>
+</body>
+</html>

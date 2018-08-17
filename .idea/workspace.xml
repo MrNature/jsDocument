@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2af39ac-dc9e-4deb-ba3f-23e38646fb9b" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1802.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/1.输出语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/10.自增自减.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/11.比较运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/12.逻辑运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/2.变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/2.变量的定义.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/3.变量的数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/4.typeof操作符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/5.弱类型语言.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/6.数据类型之间的转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/7.js中的运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/8.算数运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/9.赋值运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/1.javascript核心原理-基本语法/demo.自增联系.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/1.js中的三大逻辑结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/2.js中的分支结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/3.分支结构-if语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/4.三目运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/5.分支结构-switch语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/6.循环结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/7.循环结构-while循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/8.循环结构-do...while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/9.循环结构-for循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/Math.random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/demo.久久乘法表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/demo.体重检测.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/demo.打印三角形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/demo.特殊的判断.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/2.逻辑结构/demo.简易计算器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/1.事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/10.闭包.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/11.递归.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/2.函数的定义.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/3.函数属于引用数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/4.函数的参数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/5.arguments参数集合.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/6.函数的返回值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/7.变量的作用域.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/8.变量提升.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/9.作用域链.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/demo.不定参求和.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/demo.变量提升.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/demo.定义一个生成随机颜色的函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/demo.生成随机数函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/demo.简易售货机.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/3.函数/引用数据类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/1.js中的6个基本数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/10.array.splice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/11.数组排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/12.数组切片-slice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/13.数组拼接-concat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/14.数组转字符串.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/15.数组元素的搜索.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/2.对象的创建.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/3.对象的遍历-for...in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/4.初探构造函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/5.js中的对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/6.数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/7.数组的创建.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/8.数组的操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/9.数组的增删.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/demo.sort高级用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/demo.使用sort进行对象排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/demo.使用对象描述数据.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/demo.排序版本号.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/demo.生成随机颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/对象在内存中的表现.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/4.对象/条形码.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/三角形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/体重检测.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/使用对象描述数据.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/数组操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/生成随机数函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/简易计算器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/demo练习/随即颜色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/work/条形码.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/work/随机点名.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="9.数组的增删.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/4.对象/9.数组的增删.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数组操作.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/demo练习/数组操作.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="随机点名.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/work/随机点名.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="条形码.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/work/条形码.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javascript/demo练习/数组操作.html" />
+        <option value="$PROJECT_DIR$/javascript/work/随机点名.html" />
+        <option value="$PROJECT_DIR$/javascript/work/条形码.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="460" />
+    <option name="y" value="28" />
+    <option name="width" value="1234" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1802" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1802" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1802" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1802" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1802" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1802" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="条形码.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/1802/javascript/work/条形码.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.条形码.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2af39ac-dc9e-4deb-ba3f-23e38646fb9b" name="默认的" comment="" />
+      <created>1534337790448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534337790448</updated>
+      <workItem from="1534337793858" duration="334000" />
+      <workItem from="1534405424344" duration="13275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="460" y="28" width="1234" height="1000" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17159277" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javascript/3.函数/11.递归.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/3.函数/11.递归.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/4.对象/8.数组的操作.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/work">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/work/随机点名.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/demo练习/数组操作.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/4.对象/9.数组的增删.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/work/条形码.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

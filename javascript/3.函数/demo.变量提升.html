@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		
+		alert(a);//undefined
+
+		var a = 10;
+
+		function fn(){
+			alert(a);//undefined
+
+			a = 20;
+
+			alert(a);//20
+		}
+
+		fn();
+
+		alert(a);//10
+
+	</script>
+</body>
+</html>

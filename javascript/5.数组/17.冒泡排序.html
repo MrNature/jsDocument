@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		/*
+			对数组中的元素进行相邻的两两比较，如果前边大，那么就相互交换位置
+		*/
+		var arr = [7,4,9,3,6,8,18,1,2,5,11];
+		//4,7,3,6,8,9,1,4,2,5,11,18
+		for(var j=1; j<arr.length; j++){//外层循环负责运行次数
+			for(var i=0; i<arr.length-j; i++){//内层循环比较元素，并交换位置
+				if(arr[i]>arr[i+1]){
+					var num = arr[i];
+					arr[i] = arr[i+1];
+					arr[i+1] = num;
+				}
+			}
+		}
+
+		console.log(arr);
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<button onclick="alert(calc(1,2,3,4,5,6,7,8))">求和</button>
+	<button onclick="calc(5,6)">求和</button>
+	<button onclick="randomNum(24,35)">生成24到35之间的随机数字</button>
+	<script>
+		
+		function calc(){
+			var sum = 0;
+			for(var i=0; i<arguments.length; i++){
+				sum += arguments[i]; 
+			}
+			return sum;
+		}
+
+		function randomNum(n,m){
+			alert(parseInt(Math.random()*(m-n))+n);
+		}
+
+	</script>
+</body>
+</html>

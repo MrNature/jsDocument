@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		/*
+			生成0~n,不包括n
+				console.log(parseInt(Math.random()*10))
+
+			生成n~m,不包括m
+				console.log(parseInt(Math.random()*(29-9))+9);
+		*/
+
+		function randomNum(n,m){
+			return parseInt(Math.random()*(m-n))+n;
+		}
+
+		randomNum(10,99);
+
+
+	</script>
+</body>
+</html>

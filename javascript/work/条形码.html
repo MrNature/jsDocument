@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>条形码</title>
+</head>
+<body>
+
+    <script>
+
+        function jiaoYan() {
+            var arr = new Array(12);
+            for (var i=0;i<arr.length;i++){
+                arr[i]=parseInt(Math.random()*10);
+            }
+            arr1 = arr.join("");
+            console.log("原码为：");
+            console.log(arr1);
+            var jSum = 0;
+            var oSum = 0;
+            for (var i=0;i<arr.length;i+=2){
+                jSum += arr[i];
+            }
+            for (var i=1;i<arr.length;i+=2){
+                oSum += arr[i];
+            }
+            var num = (10 - (jSum + oSum * 3) % 10) % 10;
+            console.log("校验码为:"+num);
+            arr.push(num);
+            arr2 = arr.join("");
+            console.log("所以条形码为：");
+            // console.log(arr);
+            console.log(arr2);
+        }
+        jiaoYan();
+
+    </script>
+</body>
+</html>

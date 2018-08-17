@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+	<script>
+		//函数的运行取决于函数定义时所在的作用域，不取决于函数调用时的作用域。
+
+		//作用域链中的变量访问规则遵循 向上查找
+
+		var a = 10;
+		var b = 20;
+
+		function fn(){
+			alert(a);
+			var b = 30;
+			// function foo(){
+				alert(b);
+			// }
+			// foo();
+		}
+
+
+		fn();
+		alert(a);
+		alert(b);
+
+	</script>
+</body>
+</html>

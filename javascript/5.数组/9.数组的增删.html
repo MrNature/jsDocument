@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		//改变原数组
+		var arr = ["小红","小明","小强"];
+
+		arr[arr.length] = "小绿";
+
+		console.log(arr.push("珍妮"));//数组结尾添加元素，返回数组长度
+
+		arr.push("丹妮","王宁");
+
+		console.log(arr.shift());//开头删除一个元素，返回被删除的元素
+
+		console.log(arr.pop());//结尾删除，返回被删除的元素
+
+		console.log(arr.unshift("小蓝"));//开头添加，返回数组长度
+
+		console.log(arr);
+	</script>
+</body>
+</html>

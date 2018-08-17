@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>随机点名</title>
+</head>
+<body>
+    <input type="text" id="a">
+    <button onclick="fn()">随机点名</button>
+    <script>
+        var arr = ['小明','小兰','小红','小绿','小紫','小橙','小黄','小青','小白','小黑'];
+        function fn() {
+            var input = arr[parseInt(Math.random()*10)];
+            // document.write(input);
+            a.value = input;
+        }
+
+    </script>
+</body>
+</html>

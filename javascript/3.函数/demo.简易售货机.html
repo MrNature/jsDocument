@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="text" id="money" placeholder="请输入投币金额" />
+	<button onclick="output()">投币</button>
+
+	<script>
+
+		function machine(m){
+			switch(Number(m)){
+				case 3:
+					return "可口可乐";
+				case 5:
+					return "脉动";
+				case 10:
+					return "红牛";
+				default:
+					return "报警";
+			}
+		}
+
+		function output(){
+			var drink = machine(money.value);
+			alert(drink);
+		}
+
+	</script>
+</body>
+</html>
