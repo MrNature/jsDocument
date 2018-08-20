@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var link = 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=北京天安门&rsv_pq=b3216af900020fea&rsv_t=95d5L8nq8ymzuX9v1DCSbpe%2BOR%2BuXFZr1xMO643g%2FrUGGaVpzY1%2FpYYNOKU&rqlang=cn&rsv_enter=1&rsv_sug2=0&inputT=5501&rsv_sug4=9883&rsv_jmp=slow';
+
+		function getParam(link){
+
+			var result = {};//创建空对象用于接受数据
+
+			var sParam = link.split('?')[1];//获取到参数字符串
+
+			var aParam = sParam.split('&');//将参数拆分为数组
+
+			for(var i=0; i<aParam.length; i++){//遍历参数数组
+
+				var param = aParam[i].split('=');//将键值对字符串拆分为数组
+
+				result[param[0]] = param[1];//将数组中的键值对定义到result
+
+			}
+
+			return result;
+
+		}
+
+
+		console.log(getParam(link));
+		
+
+	</script>
+</body>
+</html>
